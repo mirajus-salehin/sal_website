@@ -1,0 +1,1205 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 551" width="980" height="551">
+	<title>oooscillate-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,359.158,-1422,0,269,299.842)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,340.828,-1422,0,269,298.172)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,322.722,-1422,0,269,296.278)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,304.615,-1422,0,269,294.385)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,286.667,-1422,0,269,292.333)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g6" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,269.007,-1422,0,269,290.111)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g7" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,253.859,-1422,0,269,287.849)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g8" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,241.828,-1422,0,269,285.272)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g9" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,231.953,-1422,0,269,282.669)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g10" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,224.168,-1422,0,269,279.71)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g11" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,217.922,-1422,0,269,276.633)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g12" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,213.07,-1422,0,269,273.267)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g13" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,209.481,-1422,0,269,269.585)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g14" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,206.917,-1422,0,269,265.627)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g15" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,205.378,-1422,0,269,261.314)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g16" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,204.865,-1422,0,269,256.567)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g17" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,205.378,-1422,0,269,251.308)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g18" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,206.917,-1422,0,269,245.456)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g19" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,209.481,-1422,0,269,238.934)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g20" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,213.07,-1422,0,269,231.663)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g21" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,217.922,-1422,0,269,223.444)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g22" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,224.168,-1422,0,269,214.122)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g23" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,231.953,-1422,0,269,203.379)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g24" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,241.828,-1422,0,269,190.9)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g25" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,253.859,-1422,0,269,176.291)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g26" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,269.007,-1422,0,269,158.882)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g27" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,286.667,-1422,0,269,139)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g28" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,304.615,-1422,0,269,119)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g29" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,322.722,-1422,0,269,99)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g30" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,340.828,-1422,0,269,79)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g31" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,359.158,-1422,0,269,59)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g32" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,377.567,-1422,0,269,39)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g33" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,395.976,-1422,0,269,19)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+		<linearGradient id="g34" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,414.504,-1422,0,269,-1)">
+			<stop offset="0" stop-color="#50e2c3"></stop>
+			<stop offset="1" stop-color="#4b91e2"></stop>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .1;fill: none;stroke: url(#g1);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 27 } 
+		.s1 { opacity: .1;fill: none;stroke: url(#g2);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 15 } 
+		.s2 { opacity: .2;fill: none;stroke: url(#g3);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 31 } 
+		.s3 { opacity: .3;fill: none;stroke: url(#g4);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 3.0000000000000004 } 
+		.s4 { opacity: .5;fill: none;stroke: url(#g5);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 42 } 
+		.s5 { opacity: .2;fill: none;stroke: url(#g6);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 6.000000000000001 } 
+		.s6 { opacity: .4;fill: none;stroke: url(#g7);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 29.000000000000004 } 
+		.s7 { opacity: .6;fill: none;stroke: url(#g8);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 37 } 
+		.s8 { opacity: .3;fill: none;stroke: url(#g9);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 28.000000000000004 } 
+		.s9 { opacity: .5;fill: none;stroke: url(#g10);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 13 } 
+		.s10 { opacity: .2;fill: none;stroke: url(#g11);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 28.000000000000004 } 
+		.s11 { opacity: .7;fill: none;stroke: url(#g12);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 11 } 
+		.s12 { opacity: .5;fill: none;stroke: url(#g13);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 17 } 
+		.s13 { opacity: .4;fill: none;stroke: url(#g14);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 33 } 
+		.s14 { opacity: .9;fill: none;stroke: url(#g15);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 34 } 
+		.s15 { opacity: .5;fill: none;stroke: url(#g16);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 45 } 
+		.s16 { opacity: .8;fill: none;stroke: url(#g17);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 7.000000000000001 } 
+		.s17 { opacity: .5;fill: none;stroke: url(#g18);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 34 } 
+		.s18 { opacity: .4;fill: none;stroke: url(#g19);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 14.000000000000002 } 
+		.s19 { opacity: .7;fill: none;stroke: url(#g20);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 8 } 
+		.s20 { opacity: .7;fill: none;stroke: url(#g21);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 25 } 
+		.s21 { opacity: .2;fill: none;stroke: url(#g22);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 5 } 
+		.s22 { opacity: 1;fill: none;stroke: url(#g23);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 14.000000000000002 } 
+		.s23 { opacity: .5;fill: none;stroke: url(#g24);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 27 } 
+		.s24 { opacity: .9;fill: none;stroke: url(#g25);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 7.000000000000001 } 
+		.s25 { opacity: .9;fill: none;stroke: url(#g26);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 18 } 
+		.s26 { opacity: .9;fill: none;stroke: url(#g27);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 40 } 
+		.s27 { opacity: .5;fill: none;stroke: url(#g28);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 32 } 
+		.s28 { opacity: .5;fill: none;stroke: url(#g29);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 19 } 
+		.s29 { opacity: .4;fill: none;stroke: url(#g30);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 42 } 
+		.s30 { opacity: .3;fill: none;stroke: url(#g31);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 23.000000000000004 } 
+		.s31 { opacity: .8;fill: none;stroke: url(#g32);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 26 } 
+		.s32 { opacity: .1;fill: none;stroke: url(#g33);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 41.00000000000001 } 
+		.s33 { opacity: .6;fill: none;stroke: url(#g34);stroke-linecap: round;stroke-width: 2.5;stroke-dasharray: 29.000000000000004 } 
+		/***************************************************
+ * Generated by SVG Artista on 4/13/2024, 8:52:43 PM
+ * MIT license (https://opensource.org/licenses/MIT)
+ * W. https://svgartista.net
+ **************************************************/
+
+@-webkit-keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 1636.014404296875px;
+    stroke-dasharray: 1636.014404296875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1636.014404296875px;
+  }
+}
+
+@keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 1636.014404296875px;
+    stroke-dasharray: 1636.014404296875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1636.014404296875px;
+  }
+}
+
+.svg-elem-1 {
+  -webkit-animation: animate-svg-stroke-1 1s linear 0s both;
+          animation: animate-svg-stroke-1 1s linear 0s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 1619.031494140625px;
+    stroke-dasharray: 1619.031494140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1619.031494140625px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 1619.031494140625px;
+    stroke-dasharray: 1619.031494140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1619.031494140625px;
+  }
+}
+
+.svg-elem-2 {
+  -webkit-animation: animate-svg-stroke-2 1s linear 0.12s both;
+          animation: animate-svg-stroke-2 1s linear 0.12s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 1603.047119140625px;
+    stroke-dasharray: 1603.047119140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1603.047119140625px;
+  }
+}
+
+@keyframes animate-svg-stroke-3 {
+  0% {
+    stroke-dashoffset: 1603.047119140625px;
+    stroke-dasharray: 1603.047119140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1603.047119140625px;
+  }
+}
+
+.svg-elem-3 {
+  -webkit-animation: animate-svg-stroke-3 1s linear 0.24s both;
+          animation: animate-svg-stroke-3 1s linear 0.24s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 1588.095703125px;
+    stroke-dasharray: 1588.095703125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1588.095703125px;
+  }
+}
+
+@keyframes animate-svg-stroke-4 {
+  0% {
+    stroke-dashoffset: 1588.095703125px;
+    stroke-dasharray: 1588.095703125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1588.095703125px;
+  }
+}
+
+.svg-elem-4 {
+  -webkit-animation: animate-svg-stroke-4 1s linear 0.36s both;
+          animation: animate-svg-stroke-4 1s linear 0.36s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 1574.215087890625px;
+    stroke-dasharray: 1574.215087890625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1574.215087890625px;
+  }
+}
+
+@keyframes animate-svg-stroke-5 {
+  0% {
+    stroke-dashoffset: 1574.215087890625px;
+    stroke-dasharray: 1574.215087890625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1574.215087890625px;
+  }
+}
+
+.svg-elem-5 {
+  -webkit-animation: animate-svg-stroke-5 1s linear 0.48s both;
+          animation: animate-svg-stroke-5 1s linear 0.48s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 1561.436279296875px;
+    stroke-dasharray: 1561.436279296875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1561.436279296875px;
+  }
+}
+
+@keyframes animate-svg-stroke-6 {
+  0% {
+    stroke-dashoffset: 1561.436279296875px;
+    stroke-dasharray: 1561.436279296875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1561.436279296875px;
+  }
+}
+
+.svg-elem-6 {
+  -webkit-animation: animate-svg-stroke-6 1s linear 0.6s both;
+          animation: animate-svg-stroke-6 1s linear 0.6s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 1549.79052734375px;
+    stroke-dasharray: 1549.79052734375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1549.79052734375px;
+  }
+}
+
+@keyframes animate-svg-stroke-7 {
+  0% {
+    stroke-dashoffset: 1549.79052734375px;
+    stroke-dasharray: 1549.79052734375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1549.79052734375px;
+  }
+}
+
+.svg-elem-7 {
+  -webkit-animation: animate-svg-stroke-7 1s linear 0.72s both;
+          animation: animate-svg-stroke-7 1s linear 0.72s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-8 {
+  0% {
+    stroke-dashoffset: 1539.302001953125px;
+    stroke-dasharray: 1539.302001953125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1539.302001953125px;
+  }
+}
+
+@keyframes animate-svg-stroke-8 {
+  0% {
+    stroke-dashoffset: 1539.302001953125px;
+    stroke-dasharray: 1539.302001953125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1539.302001953125px;
+  }
+}
+
+.svg-elem-8 {
+  -webkit-animation: animate-svg-stroke-8 1s linear 0.84s both;
+          animation: animate-svg-stroke-8 1s linear 0.84s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-9 {
+  0% {
+    stroke-dashoffset: 1529.9974365234375px;
+    stroke-dasharray: 1529.9974365234375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1529.9974365234375px;
+  }
+}
+
+@keyframes animate-svg-stroke-9 {
+  0% {
+    stroke-dashoffset: 1529.9974365234375px;
+    stroke-dasharray: 1529.9974365234375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1529.9974365234375px;
+  }
+}
+
+.svg-elem-9 {
+  -webkit-animation: animate-svg-stroke-9 1s linear 0.96s both;
+          animation: animate-svg-stroke-9 1s linear 0.96s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-10 {
+  0% {
+    stroke-dashoffset: 1521.8951416015625px;
+    stroke-dasharray: 1521.8951416015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1521.8951416015625px;
+  }
+}
+
+@keyframes animate-svg-stroke-10 {
+  0% {
+    stroke-dashoffset: 1521.8951416015625px;
+    stroke-dasharray: 1521.8951416015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1521.8951416015625px;
+  }
+}
+
+.svg-elem-10 {
+  -webkit-animation: animate-svg-stroke-10 1s linear 1.08s both;
+          animation: animate-svg-stroke-10 1s linear 1.08s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-11 {
+  0% {
+    stroke-dashoffset: 1515.0126953125px;
+    stroke-dasharray: 1515.0126953125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1515.0126953125px;
+  }
+}
+
+@keyframes animate-svg-stroke-11 {
+  0% {
+    stroke-dashoffset: 1515.0126953125px;
+    stroke-dasharray: 1515.0126953125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1515.0126953125px;
+  }
+}
+
+.svg-elem-11 {
+  -webkit-animation: animate-svg-stroke-11 1s linear 1.2s both;
+          animation: animate-svg-stroke-11 1s linear 1.2s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-12 {
+  0% {
+    stroke-dashoffset: 1509.363525390625px;
+    stroke-dasharray: 1509.363525390625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1509.363525390625px;
+  }
+}
+
+@keyframes animate-svg-stroke-12 {
+  0% {
+    stroke-dashoffset: 1509.363525390625px;
+    stroke-dasharray: 1509.363525390625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1509.363525390625px;
+  }
+}
+
+.svg-elem-12 {
+  -webkit-animation: animate-svg-stroke-12 1s linear 1.3199999999999998s both;
+          animation: animate-svg-stroke-12 1s linear 1.3199999999999998s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-13 {
+  0% {
+    stroke-dashoffset: 1504.9588623046875px;
+    stroke-dasharray: 1504.9588623046875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1504.9588623046875px;
+  }
+}
+
+@keyframes animate-svg-stroke-13 {
+  0% {
+    stroke-dashoffset: 1504.9588623046875px;
+    stroke-dasharray: 1504.9588623046875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1504.9588623046875px;
+  }
+}
+
+.svg-elem-13 {
+  -webkit-animation: animate-svg-stroke-13 1s linear 1.44s both;
+          animation: animate-svg-stroke-13 1s linear 1.44s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-14 {
+  0% {
+    stroke-dashoffset: 1501.80712890625px;
+    stroke-dasharray: 1501.80712890625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1501.80712890625px;
+  }
+}
+
+@keyframes animate-svg-stroke-14 {
+  0% {
+    stroke-dashoffset: 1501.80712890625px;
+    stroke-dasharray: 1501.80712890625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1501.80712890625px;
+  }
+}
+
+.svg-elem-14 {
+  -webkit-animation: animate-svg-stroke-14 1s linear 1.56s both;
+          animation: animate-svg-stroke-14 1s linear 1.56s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-15 {
+  0% {
+    stroke-dashoffset: 1499.912841796875px;
+    stroke-dasharray: 1499.912841796875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.912841796875px;
+  }
+}
+
+@keyframes animate-svg-stroke-15 {
+  0% {
+    stroke-dashoffset: 1499.912841796875px;
+    stroke-dasharray: 1499.912841796875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.912841796875px;
+  }
+}
+
+.svg-elem-15 {
+  -webkit-animation: animate-svg-stroke-15 1s linear 1.68s both;
+          animation: animate-svg-stroke-15 1s linear 1.68s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-16 {
+  0% {
+    stroke-dashoffset: 1499.2816162109375px;
+    stroke-dasharray: 1499.2816162109375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.2816162109375px;
+  }
+}
+
+@keyframes animate-svg-stroke-16 {
+  0% {
+    stroke-dashoffset: 1499.2816162109375px;
+    stroke-dasharray: 1499.2816162109375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.2816162109375px;
+  }
+}
+
+.svg-elem-16 {
+  -webkit-animation: animate-svg-stroke-16 1s linear 1.7999999999999998s both;
+          animation: animate-svg-stroke-16 1s linear 1.7999999999999998s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-17 {
+  0% {
+    stroke-dashoffset: 1499.913818359375px;
+    stroke-dasharray: 1499.913818359375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.913818359375px;
+  }
+}
+
+@keyframes animate-svg-stroke-17 {
+  0% {
+    stroke-dashoffset: 1499.913818359375px;
+    stroke-dasharray: 1499.913818359375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1499.913818359375px;
+  }
+}
+
+.svg-elem-17 {
+  -webkit-animation: animate-svg-stroke-17 1s linear 1.92s both;
+          animation: animate-svg-stroke-17 1s linear 1.92s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-18 {
+  0% {
+    stroke-dashoffset: 1501.806396484375px;
+    stroke-dasharray: 1501.806396484375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1501.806396484375px;
+  }
+}
+
+@keyframes animate-svg-stroke-18 {
+  0% {
+    stroke-dashoffset: 1501.806396484375px;
+    stroke-dasharray: 1501.806396484375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1501.806396484375px;
+  }
+}
+
+.svg-elem-18 {
+  -webkit-animation: animate-svg-stroke-18 1s linear 2.04s both;
+          animation: animate-svg-stroke-18 1s linear 2.04s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-19 {
+  0% {
+    stroke-dashoffset: 1504.95849609375px;
+    stroke-dasharray: 1504.95849609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1504.95849609375px;
+  }
+}
+
+@keyframes animate-svg-stroke-19 {
+  0% {
+    stroke-dashoffset: 1504.95849609375px;
+    stroke-dasharray: 1504.95849609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1504.95849609375px;
+  }
+}
+
+.svg-elem-19 {
+  -webkit-animation: animate-svg-stroke-19 1s linear 2.16s both;
+          animation: animate-svg-stroke-19 1s linear 2.16s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-20 {
+  0% {
+    stroke-dashoffset: 1509.36328125px;
+    stroke-dasharray: 1509.36328125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1509.36328125px;
+  }
+}
+
+@keyframes animate-svg-stroke-20 {
+  0% {
+    stroke-dashoffset: 1509.36328125px;
+    stroke-dasharray: 1509.36328125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1509.36328125px;
+  }
+}
+
+.svg-elem-20 {
+  -webkit-animation: animate-svg-stroke-20 1s linear 2.28s both;
+          animation: animate-svg-stroke-20 1s linear 2.28s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-21 {
+  0% {
+    stroke-dashoffset: 1515.012451171875px;
+    stroke-dasharray: 1515.012451171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1515.012451171875px;
+  }
+}
+
+@keyframes animate-svg-stroke-21 {
+  0% {
+    stroke-dashoffset: 1515.012451171875px;
+    stroke-dasharray: 1515.012451171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1515.012451171875px;
+  }
+}
+
+.svg-elem-21 {
+  -webkit-animation: animate-svg-stroke-21 1s linear 2.4s both;
+          animation: animate-svg-stroke-21 1s linear 2.4s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-22 {
+  0% {
+    stroke-dashoffset: 1521.895263671875px;
+    stroke-dasharray: 1521.895263671875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1521.895263671875px;
+  }
+}
+
+@keyframes animate-svg-stroke-22 {
+  0% {
+    stroke-dashoffset: 1521.895263671875px;
+    stroke-dasharray: 1521.895263671875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1521.895263671875px;
+  }
+}
+
+.svg-elem-22 {
+  -webkit-animation: animate-svg-stroke-22 1s linear 2.52s both;
+          animation: animate-svg-stroke-22 1s linear 2.52s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-23 {
+  0% {
+    stroke-dashoffset: 1529.99755859375px;
+    stroke-dasharray: 1529.99755859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1529.99755859375px;
+  }
+}
+
+@keyframes animate-svg-stroke-23 {
+  0% {
+    stroke-dashoffset: 1529.99755859375px;
+    stroke-dasharray: 1529.99755859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1529.99755859375px;
+  }
+}
+
+.svg-elem-23 {
+  -webkit-animation: animate-svg-stroke-23 1s linear 2.6399999999999997s both;
+          animation: animate-svg-stroke-23 1s linear 2.6399999999999997s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-24 {
+  0% {
+    stroke-dashoffset: 1539.3026123046875px;
+    stroke-dasharray: 1539.3026123046875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1539.3026123046875px;
+  }
+}
+
+@keyframes animate-svg-stroke-24 {
+  0% {
+    stroke-dashoffset: 1539.3026123046875px;
+    stroke-dasharray: 1539.3026123046875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1539.3026123046875px;
+  }
+}
+
+.svg-elem-24 {
+  -webkit-animation: animate-svg-stroke-24 1s linear 2.76s both;
+          animation: animate-svg-stroke-24 1s linear 2.76s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-25 {
+  0% {
+    stroke-dashoffset: 1549.790283203125px;
+    stroke-dasharray: 1549.790283203125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1549.790283203125px;
+  }
+}
+
+@keyframes animate-svg-stroke-25 {
+  0% {
+    stroke-dashoffset: 1549.790283203125px;
+    stroke-dasharray: 1549.790283203125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1549.790283203125px;
+  }
+}
+
+.svg-elem-25 {
+  -webkit-animation: animate-svg-stroke-25 1s linear 2.88s both;
+          animation: animate-svg-stroke-25 1s linear 2.88s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-26 {
+  0% {
+    stroke-dashoffset: 1561.43701171875px;
+    stroke-dasharray: 1561.43701171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1561.43701171875px;
+  }
+}
+
+@keyframes animate-svg-stroke-26 {
+  0% {
+    stroke-dashoffset: 1561.43701171875px;
+    stroke-dasharray: 1561.43701171875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1561.43701171875px;
+  }
+}
+
+.svg-elem-26 {
+  -webkit-animation: animate-svg-stroke-26 1s linear 3s both;
+          animation: animate-svg-stroke-26 1s linear 3s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-27 {
+  0% {
+    stroke-dashoffset: 1574.2152099609375px;
+    stroke-dasharray: 1574.2152099609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1574.2152099609375px;
+  }
+}
+
+@keyframes animate-svg-stroke-27 {
+  0% {
+    stroke-dashoffset: 1574.2152099609375px;
+    stroke-dasharray: 1574.2152099609375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1574.2152099609375px;
+  }
+}
+
+.svg-elem-27 {
+  -webkit-animation: animate-svg-stroke-27 1s linear 3.12s both;
+          animation: animate-svg-stroke-27 1s linear 3.12s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-28 {
+  0% {
+    stroke-dashoffset: 1588.09619140625px;
+    stroke-dasharray: 1588.09619140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1588.09619140625px;
+  }
+}
+
+@keyframes animate-svg-stroke-28 {
+  0% {
+    stroke-dashoffset: 1588.09619140625px;
+    stroke-dasharray: 1588.09619140625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1588.09619140625px;
+  }
+}
+
+.svg-elem-28 {
+  -webkit-animation: animate-svg-stroke-28 1s linear 3.2399999999999998s both;
+          animation: animate-svg-stroke-28 1s linear 3.2399999999999998s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-29 {
+  0% {
+    stroke-dashoffset: 1603.046630859375px;
+    stroke-dasharray: 1603.046630859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1603.046630859375px;
+  }
+}
+
+@keyframes animate-svg-stroke-29 {
+  0% {
+    stroke-dashoffset: 1603.046630859375px;
+    stroke-dasharray: 1603.046630859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1603.046630859375px;
+  }
+}
+
+.svg-elem-29 {
+  -webkit-animation: animate-svg-stroke-29 1s linear 3.36s both;
+          animation: animate-svg-stroke-29 1s linear 3.36s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-30 {
+  0% {
+    stroke-dashoffset: 1619.031982421875px;
+    stroke-dasharray: 1619.031982421875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1619.031982421875px;
+  }
+}
+
+@keyframes animate-svg-stroke-30 {
+  0% {
+    stroke-dashoffset: 1619.031982421875px;
+    stroke-dasharray: 1619.031982421875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1619.031982421875px;
+  }
+}
+
+.svg-elem-30 {
+  -webkit-animation: animate-svg-stroke-30 1s linear 3.48s both;
+          animation: animate-svg-stroke-30 1s linear 3.48s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-31 {
+  0% {
+    stroke-dashoffset: 1636.013916015625px;
+    stroke-dasharray: 1636.013916015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1636.013916015625px;
+  }
+}
+
+@keyframes animate-svg-stroke-31 {
+  0% {
+    stroke-dashoffset: 1636.013916015625px;
+    stroke-dasharray: 1636.013916015625px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1636.013916015625px;
+  }
+}
+
+.svg-elem-31 {
+  -webkit-animation: animate-svg-stroke-31 1s linear 3.5999999999999996s both;
+          animation: animate-svg-stroke-31 1s linear 3.5999999999999996s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-32 {
+  0% {
+    stroke-dashoffset: 1653.955078125px;
+    stroke-dasharray: 1653.955078125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1653.955078125px;
+  }
+}
+
+@keyframes animate-svg-stroke-32 {
+  0% {
+    stroke-dashoffset: 1653.955078125px;
+    stroke-dasharray: 1653.955078125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1653.955078125px;
+  }
+}
+
+.svg-elem-32 {
+  -webkit-animation: animate-svg-stroke-32 1s linear 3.7199999999999998s both;
+          animation: animate-svg-stroke-32 1s linear 3.7199999999999998s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-33 {
+  0% {
+    stroke-dashoffset: 1672.815673828125px;
+    stroke-dasharray: 1672.815673828125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1672.815673828125px;
+  }
+}
+
+@keyframes animate-svg-stroke-33 {
+  0% {
+    stroke-dashoffset: 1672.815673828125px;
+    stroke-dasharray: 1672.815673828125px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1672.815673828125px;
+  }
+}
+
+.svg-elem-33 {
+  -webkit-animation: animate-svg-stroke-33 1s linear 3.84s both;
+          animation: animate-svg-stroke-33 1s linear 3.84s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-34 {
+  0% {
+    stroke-dashoffset: 1692.5546875px;
+    stroke-dasharray: 1692.5546875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1692.5546875px;
+  }
+}
+
+@keyframes animate-svg-stroke-34 {
+  0% {
+    stroke-dashoffset: 1692.5546875px;
+    stroke-dasharray: 1692.5546875px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1692.5546875px;
+  }
+}
+
+.svg-elem-34 {
+  -webkit-animation: animate-svg-stroke-34 1s linear 3.96s both;
+          animation: animate-svg-stroke-34 1s linear 3.96s both;
+}
+
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0 svg-elem-1" d="m-442 659q355.5-505 711-300 355.5 205 711 300"></path>
+		<path id="Layer" fill-rule="evenodd" class="s1 svg-elem-2" d="m-442 639q355.5-485 711-280 355.5 205 711 280"></path>
+		<path id="Layer" fill-rule="evenodd" class="s2 svg-elem-3" d="m-442 619q355.5-465 711-260 355.5 205 711 260"></path>
+		<path id="Layer" fill-rule="evenodd" class="s3 svg-elem-4" d="m-442 599q355.5-445 711-240 355.5 205 711 240"></path>
+		<path id="Layer" fill-rule="evenodd" class="s4 svg-elem-5" d="m-442 579q355.5-425 711-220 355.5 205 711 220"></path>
+		<path id="Layer" fill-rule="evenodd" class="s5 svg-elem-6" d="m-442 559q355.5-405 711-200 355.5 205 711 200"></path>
+		<path id="Layer" fill-rule="evenodd" class="s6 svg-elem-7" d="m-442 539q355.5-385 711-180 355.5 205 711 180"></path>
+		<path id="Layer" fill-rule="evenodd" class="s7 svg-elem-8" d="m-442 519q355.5-365 711-160 355.5 205 711 160"></path>
+		<path id="Layer" fill-rule="evenodd" class="s8 svg-elem-9" d="m-442 499q355.5-345 711-140 355.5 205 711 140"></path>
+		<path id="Layer" fill-rule="evenodd" class="s9 svg-elem-10" d="m-442 479q355.5-325 711-120 355.5 205 711 120"></path>
+		<path id="Layer" fill-rule="evenodd" class="s10 svg-elem-11" d="m-442 459q355.5-305 711-100 355.5 205 711 100"></path>
+		<path id="Layer" fill-rule="evenodd" class="s11 svg-elem-12" d="m-442 439q355.5-285 711-80 355.5 205 711 80"></path>
+		<path id="Layer" fill-rule="evenodd" class="s12 svg-elem-13" d="m-442 419q355.5-265 711-60 355.5 205 711 60"></path>
+		<path id="Layer" fill-rule="evenodd" class="s13 svg-elem-14" d="m-442 399q355.5-245 711-40 355.5 205 711 40"></path>
+		<path id="Layer" fill-rule="evenodd" class="s14 svg-elem-15" d="m-442 379q355.5-225 711-20 355.5 205 711 20"></path>
+		<path id="Layer" fill-rule="evenodd" class="s15 svg-elem-16" d="m-442 359q355.5-205 711 0 355.5 205 711 0"></path>
+		<path id="Layer" fill-rule="evenodd" class="s16 svg-elem-17" d="m-442 339q355.5-185 711 20 355.5 205 711-20"></path>
+		<path id="Layer" fill-rule="evenodd" class="s17 svg-elem-18" d="m-442 319q355.5-165 711 40 355.5 205 711-40"></path>
+		<path id="Layer" fill-rule="evenodd" class="s18 svg-elem-19" d="m-442 299q355.5-145 711 60 355.5 205 711-60"></path>
+		<path id="Layer" fill-rule="evenodd" class="s19 svg-elem-20" d="m-442 279q355.5-125 711 80 355.5 205 711-80"></path>
+		<path id="Layer" fill-rule="evenodd" class="s20 svg-elem-21" d="m-442 259q355.5-105 711 100 355.5 205 711-100"></path>
+		<path id="Layer" fill-rule="evenodd" class="s21 svg-elem-22" d="m-442 239q355.5-85 711 120 355.5 205 711-120"></path>
+		<path id="Layer" fill-rule="evenodd" class="s22 svg-elem-23" d="m-442 219q355.5-65 711 140 355.5 205 711-140"></path>
+		<path id="Layer" fill-rule="evenodd" class="s23 svg-elem-24" d="m-442 199q355.5-45 711 160 355.5 205 711-160"></path>
+		<path id="Layer" fill-rule="evenodd" class="s24 svg-elem-25" d="m-442 179q355.5-25 711 180 355.5 205 711-180"></path>
+		<path id="Layer" fill-rule="evenodd" class="s25 svg-elem-26" d="m-442 159q355.5-5 711 200 355.5 205 711-200"></path>
+		<path id="Layer" fill-rule="evenodd" class="s26 svg-elem-27" d="m-442 139q355.5 15 711 220 355.5 205 711-220"></path>
+		<path id="Layer" fill-rule="evenodd" class="s27 svg-elem-28" d="m-442 119q355.5 35 711 240 355.5 205 711-240"></path>
+		<path id="Layer" fill-rule="evenodd" class="s28 svg-elem-29" d="m-442 99q355.5 55 711 260 355.5 205 711-260"></path>
+		<path id="Layer" fill-rule="evenodd" class="s29 svg-elem-30" d="m-442 79q355.5 75 711 280 355.5 205 711-280"></path>
+		<path id="Layer" fill-rule="evenodd" class="s30 svg-elem-31" d="m-442 59q355.5 95 711 300 355.5 205 711-300"></path>
+		<path id="Layer" fill-rule="evenodd" class="s31 svg-elem-32" d="m-442 39q355.5 115 711 320 355.5 205 711-320"></path>
+		<path id="Layer" fill-rule="evenodd" class="s32 svg-elem-33" d="m-442 19q355.5 135 711 340 355.5 205 711-340"></path>
+		<path id="Layer" fill-rule="evenodd" class="s33 svg-elem-34" d="m-442-1q355.5 155 711 360 355.5 205 711-360"></path>
+	</g>
+</svg>
