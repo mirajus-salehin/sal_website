@@ -8,7 +8,7 @@
             </p>
         </div>
         <div class="container px-6 py-10 mx-auto mt-16 md:mt-28">
-            <div class="xl:flex xl:items-center xL:-mx-4">
+            <div class="xl:flex xl:items-center xL:-mx-4 mx-auto">
                 <div class="xl:w-1/2 xl:mx-4">
                     <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">Research
                         Superviser</h1>

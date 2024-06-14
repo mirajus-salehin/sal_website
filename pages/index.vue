@@ -8,9 +8,12 @@
                     <p class="text-2xl font-semibold">Welcome to the</p>
                     <p class="text-3xl md:text-5xl font-extrabold text-cyan-600">Smart Agriculture Laboratory</p>
                 </div>
-                <p class="px-2 md:px-10 md:w-1/2 mx-auto text-center mt-10 md:mt-20 leading-6 md:leading-8 text-xl md:text-2xl">
-                    The Smart Agriculture Laboratory locates in the Farm Power and Machinery Department at the Bangladesh
-                    Agricultural University, Mymensingh, Bangladesh. The lab aims to advance knowledge and technologies in
+                <p
+                    class="px-2 md:px-10 md:w-1/2 mx-auto text-center mt-10 md:mt-20 leading-6 md:leading-8 text-xl md:text-2xl">
+                    The Smart Agriculture Laboratory locates in the Farm Power and Machinery Department at the
+                    Bangladesh
+                    Agricultural University, Mymensingh, Bangladesh. The lab aims to advance knowledge and technologies
+                    in
                     smart
                     agriculture and to train the next generation of agricultural engineers.
                 </p>
@@ -65,7 +68,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -78,7 +82,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -91,7 +96,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -104,7 +110,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -117,7 +124,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -130,7 +138,8 @@
                                     SUBTITLE
                                 </h2>
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
+                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
+                                    jianbing
                                     microdosing tousled waistcoat.</p>
                             </div>
                         </div>
@@ -159,24 +168,54 @@
             </div>
 
         </section>
-        <div class="container flex flex-col items-center px-4 py-12 mx-auto text-center">
-            <h2 class="max-w-2xl mx-auto text-2xl font-semibold tracking-tight text-gray-800 xl:text-3xl dark:text-white">
-                Bring your agriculture to the <span class="text-cyan-600">next level.</span>
-            </h2>
-
-            <div class="inline-flex w-full mt-6 sm:w-auto">
-                <nuxt-link to="/contact">
-                    <button
-                        class="inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-cyan-600 rounded-lg hover:bg-red-600">
-                        Contact us
-                    </button>
-                </nuxt-link>
+        <div class="py-24 sm:py-32">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8">
+                <div class="mx-auto max-w-2xl lg:text-center">
+                    <h2 class="text-base font-semibold leading-7 text-white">Farm smarter</h2>
+                    <p class="mt-2 text-3xl font-bold tracking-tight text-cyan-600 sm:text-4xl">Everything you need to
+                        modernize agriculture</p>
+                    <p class="mt-6 text-lg leading-8 text-gray-600">Quis tellus eget adipiscing convallis sit sit eget
+                        aliquet quis. Suspendisse eget egestas a elementum pulvinar et feugiat blandit at. In mi viverra
+                        elit nunc.</p>
+                </div>
+                <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+                    <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+                        <div v-for="feature in features" :key="feature.name" class="relative pl-16">
+                            <dt class="text-base font-semibold leading-7 text-gray-900">
+                                {{ feature.name }}
+                            </dt>
+                            <dd class="mt-2 text-base leading-7 text-gray-600">{{ feature.description }}</dd>
+                        </div>
+                    </dl>
+                </div>
             </div>
         </div>
     </section>
 </template>
 <script>
 
+const features = [
+    {
+        name: 'Push to deploy',
+        description:
+            'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+    },
+    {
+        name: 'SSL certificates',
+        description:
+            'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+    },
+    {
+        name: 'Simple queues',
+        description:
+            'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+    },
+    {
+        name: 'Advanced security',
+        description:
+            'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+    },
+]
 </script>
 <style scoped>
 .section-img {
@@ -236,4 +275,3 @@
     animation-delay: -5.6s;
 }
 </style>
-  
