@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a2b69769-0327-452b-b9fe-130259b19f84/deploy-status)](https://app.netlify.com/sites/smartagrilab/deploys)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mirajus-salehin/sal_website/codeql.yml)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fsmartagrilab.netlify.app%2F)
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
