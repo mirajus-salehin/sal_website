@@ -1,7 +1,7 @@
 <template>
     <section>
         <div class="max-w-lg mx-auto mt-16 md:mt-20">
-            <h1 class="text-3xl font-semibold lg:text-4xl text-brand-green text-center">Our lab members</h1>
+            <h1 class="text-3xl font-semibold lg:text-4xl text-white text-center">Our lab members</h1>
 
             <p class="mt-6 text-white text-center">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero similique obcaecati illum mollitia.
@@ -10,7 +10,7 @@
         <div class="container px-6 py-10 mx-auto mt-16 md:mt-28">
             <div class="xl:flex xl:items-center xL:-mx-4 mx-auto">
                 <div class="xl:w-1/2 xl:mx-4">
-                    <h1 class="text-2xl font-semibold text-gray-800 capitalize lg:text-3xl dark:text-white">Research
+                    <h1 class="text-2xl font-semibold text-cyan-600 capitalize lg:text-3xl">Research
                         Superviser</h1>
 
                     <p class="max-w-2xl mt-4 text-gray-500 dark:text-gray-300">
@@ -23,7 +23,7 @@
                     <div>
                         <img class="object-cover rounded-xl aspect-square" src="https://dummyimage.com/600x600" alt="">
 
-                        <h1 class="mt-4 text-2xl font-semibold text-brand-green capitalize">John Doe</h1>
+                        <h1 class="mt-4 text-2xl font-semibold text-white capitalize">John Doe</h1>
 
                         <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Job title</p>
                     </div>
@@ -31,7 +31,7 @@
             </div>
         </div>
         <h3 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl mt-16- md:mt-28">Our <span
-                class="text-brand-green">Current students</span></h3>
+                class="text-cyan-600">Current students</span></h3>
         <div class="px-10 md:px-20">
             <div class="px-10 mt-16 md:mt-20">
                 <p class="text-white">Graduate student</p>
