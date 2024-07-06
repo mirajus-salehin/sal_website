@@ -2,7 +2,7 @@
     <!-- component -->
     <footer class="bg-cyan-600">
         <div class="container px-6 py-12 mx-auto">
-            <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-2 place-items-center">
+            <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-2 mdplace-items-center">
                 <div>
                     <p class="font-semibold text-gray-800 dark:text-white">Quick Link</p>
 

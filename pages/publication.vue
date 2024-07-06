@@ -1,10 +1,10 @@
 <template>
-    <section class="px-12">
-        <div class="w-full p-20 mx-auto">
-            <p class="text-5xl mx-auto text-center text-cyan-50">List of research paper published</p>
+    <section class="p-4 md:px-12">
+        <div class="w-full p-4 md:p-20 mx-auto">
+            <p class="text-2xl md:text-5xl md:mx-auto text-center text-cyan-50">List of research paper published</p>
         </div>
         <div class="relative overflow-x-auto shadow-md sm:rounded-lg py-10">
-            <table class="w-full text-sm text-left text-white px-10">
+            <table class="w-full text-sm text-left text-white p-2 md:px-10">
                 <thead class="text-xs text-white uppercase bg-cyan-600">
                     <tr>
                         <th scope="col" class="px-6 py-3">

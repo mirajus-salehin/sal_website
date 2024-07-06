@@ -32,7 +32,7 @@
         </div>
         <h3 class="text-2xl font-semibold text-center text-white capitalize lg:text-3xl mt-16- md:mt-28">Our <span
                 class="text-cyan-600">Current students</span></h3>
-        <div class="px-10 md:px-20">
+        <div class="px-4 md:px-20">
             <div class="px-10 mt-16 md:mt-20">
                 <p class="text-white">Graduate student</p>
                 <hr class="my-6 border-white md:my-8 w-1/2">
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-        <div class="px-10 md:px-20">
+        <div class="px-4 md:px-20">
             <div class="px-10 mt-16 md:mt-20">
                 <p class="text-white">Undergrade student</p>
                 <hr class="my-6 border-white md:my-8 w-1/2">

@@ -1,14 +1,14 @@
 <template>
     <section>
         <!--hero section-->
-        <section class="px-10">
+        <section class="p-2 md:px-10">
             <UContainer class="mx-auto p-4">
                 <div class="mt-10 mb-5 text-center h-1/5 py-10 tracking-widest flex flex-col space-y-4 justify-center">
-                    <p class="text-3xl font-semibold text-white">Sustainable Agriculture for Bangladesh</p>
-                    <p class="text-5xl font-extrabold text-cyan-600">Our Research Commitment</p>
+                    <p class="text-xl lg:text-3xl font-semibold text-white">Sustainable Agriculture for Bangladesh</p>
+                    <p class="text-3xl lg:text-5xl font-extrabold text-cyan-600">Our Research Commitment</p>
                 </div>
             </UContainer>
-            <UContainer class="grid grid-cols-1 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
+            <UContainer class="grid grid-cols-1 mt-8 xl:mt-12 gap-10 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
                 <div v-for="research in researches" :key="research">
                     <research_card :title="research.title" :description="research.description" />
                 </div>

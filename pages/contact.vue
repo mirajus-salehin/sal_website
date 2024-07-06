@@ -1,5 +1,5 @@
 <template>
-    <section class="mt-16 md:mt-20 mb-20">
+    <section class="mt-16 p-4 md:mt-20 mb-20">
         <div class="max-w-lg mx-auto">
             <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">Contact us</h1>
 
