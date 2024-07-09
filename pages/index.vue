@@ -62,85 +62,73 @@
                 <div class="flex flex-wrap -m-4">
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/600x360">
+                            <img alt="gallery" class="img-container" src="/assets/images/1.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">
+                                    Colaboration of knowledge
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Supervisor and students
+                                    works together as a team</h1>
                             </div>
                         </div>
                     </div>
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/601x361">
+                            <img alt="gallery" class="img-container" src="/assets/images/2.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">
+                                    Knowledge sharing
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">This is where we share
+                                    knowledge with other</h1>
                             </div>
                         </div>
                     </div>
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/603x363">
+                            <img alt="gallery" class="img-container" src="/assets/images/3.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">Free to
+                                    work
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Our team members are free
+                                    to work</h1>
                             </div>
                         </div>
                     </div>
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/602x362">
+                            <img alt="gallery" class="img-container" src="/assets/images/4.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">Self
+                                    motivation
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">We are motivated to work
+                                    with our own</h1>
                             </div>
                         </div>
                     </div>
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/605x365">
+                            <img alt="gallery" class="img-container" src="assets/images/5.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">Leading
+                                    the technology
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">We carry on our own theory
+                                    to lead</h1>
                             </div>
                         </div>
                     </div>
                     <div class="lg:w-1/3 sm:w-1/2 p-4">
                         <div class="flex relative">
-                            <img alt="gallery" class="img-container" src="https://dummyimage.com/606x366">
+                            <img alt="gallery" class="img-container" src="assets/images/6.jpeg">
                             <div class="img-div">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">THE
-                                    SUBTITLE
+                                <h2 class="tracking-widest text-sm title-font font-medium text-brand-green mb-1">
+                                    Innovation
                                 </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-                                <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings
-                                    jianbing
-                                    microdosing tousled waistcoat.</p>
+                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Two minds are greather
+                                    than one</h1>
                             </div>
                         </div>
                     </div>
@@ -174,19 +162,16 @@
                     <h2 class="text-base font-semibold leading-7 text-white">Farm smarter</h2>
                     <p class="mt-2 text-3xl font-bold tracking-tight text-cyan-600 sm:text-4xl">Everything you need to
                         modernize agriculture</p>
-                    <p class="mt-6 text-lg leading-8 text-gray-600">Quis tellus eget adipiscing convallis sit sit eget
-                        aliquet quis. Suspendisse eget egestas a elementum pulvinar et feugiat blandit at. In mi viverra
-                        elit nunc.</p>
+                    <p class="mt-6 text-lg leading-8 text-gray-600">By implementing these elements, agriculture can
+                        become more productive, sustainable, and profitable for farmers while ensuring food security for
+                        a growing population.</p>
                 </div>
                 <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
-                    <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
-                        <div v-for="feature in features" :key="feature.name" class="relative pl-16">
-                            <dt class="text-base font-semibold leading-7 text-gray-900">
-                                {{ feature.name }}
-                            </dt>
-                            <dd class="mt-2 text-base leading-7 text-gray-600">{{ feature.description }}</dd>
+                    <div class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+                        <div v-for="feature in features" :key="feature">
+                            <featureCard :title="feature.title" :description="feature.description" />
                         </div>
-                    </dl>
+                    </div>
                 </div>
             </div>
         </div>
@@ -194,28 +179,33 @@
 </template>
 <script>
 
-const features = [
-    {
-        name: 'Push to deploy',
-        description:
-            'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
-    },
-    {
-        name: 'SSL certificates',
-        description:
-            'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
-    },
-    {
-        name: 'Simple queues',
-        description:
-            'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
-    },
-    {
-        name: 'Advanced security',
-        description:
-            'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
-    },
-]
+export default {
+    data() {
+        return {
+            features: [
+                {
+                    title: 'Data sharing and research',
+                    description:
+                        'Encouraging collaboration between farmers, researchers, and agricultural businesses to share knowledge and develop new solutions',
+                },
+                {
+                    title: 'Precision agriculture technologies',
+                    description:
+                        'This includes using sensors, drones, and data analysis to optimize resource use (water, fertilizer, etc.) and improve yields.',
+                },
+                {
+                    title: 'Advanced machinery and automation',
+                    description:
+                        'Tractors with GPS guidance, robotic harvesters, and automated irrigation systems all increase efficiency and reduce manual labor.',
+                },
+                {
+                    title: 'Farmer education and training',
+                    description:
+                        'Providing farmers with access to workshops and resources on new technologies and sustainable practices.',
+                },]
+        }
+    }
+}
 </script>
 <style scoped>
 .section-img {
