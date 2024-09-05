@@ -31,6 +31,19 @@ export default {
     data() {
         return {
             researchArticles: [{
+                articleName: 'Paddy seed viability prediction based on feature fusion of color and hyperspectral image with multivariate analysis.',
+                link: 'https://www.sciencedirect.com/science/article/pii/S2405844024130307'
+            },
+            {
+                articleName: 'Prediction of mango quality during ripening stage using MQ-based electronic nose and multiple linear regression.',
+                link: 'https://www.sciencedirect.com/science/article/pii/S2772375524001631?via%3Dihub'
+            },
+            ,
+            {
+                articleName: 'Assessment of paddy leaves disease severity level using image processing technique.',
+                link: 'https://www.sciencedirect.com/science/article/pii/S2772375524000157'
+            },
+            {
                 articleName: 'Intact Macadamia Nut Quality Assessment Using Near-Infrared Spectroscopy and Multivariate Analysis.',
                 link: 'https://doi.org/10.1016/j.jfca.2021.104033'
             },
