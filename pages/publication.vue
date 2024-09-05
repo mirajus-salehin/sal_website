@@ -38,7 +38,6 @@ export default {
                 articleName: 'Prediction of mango quality during ripening stage using MQ-based electronic nose and multiple linear regression.',
                 link: 'https://www.sciencedirect.com/science/article/pii/S2772375524001631?via%3Dihub'
             },
-            ,
             {
                 articleName: 'Assessment of paddy leaves disease severity level using image processing technique.',
                 link: 'https://www.sciencedirect.com/science/article/pii/S2772375524000157'
