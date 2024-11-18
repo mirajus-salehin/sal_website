@@ -57,7 +57,7 @@
   
   <style>
   .nav-item {
-    @apply px-6 py-2 hover:cursor-pointer hover:bg-red-600 hover:text-white rounded-xl font-bold transition duration-200;
+    @apply px-6 py-2 hover:cursor-pointer hover:bg-red-600 hover:text-white rounded-xl font-bold transition duration-200 ease-in;
   }
   .mobile-nav {
     @apply px-6 py-2 ;

@@ -217,7 +217,7 @@ export default {
 }
 
 .img-div {
-    @apply px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100;
+    @apply px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100 duration-150 ease-linear transition-all;
 }
 
 
