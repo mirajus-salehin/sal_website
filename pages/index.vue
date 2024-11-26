@@ -134,6 +134,8 @@
                     </div>
                 </div>
             </div>
+            <div class="flex h-[500px] w-full flex-col gap-4 lg:h-[250px] lg:flex-row">
+  </div>
         </section>
         <!--numbers section-->
         <section class="bg-cyan-600 py-24 sm:py-32">
@@ -169,7 +171,7 @@
                 <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
                     <div class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
                         <div v-for="feature in features" :key="feature">
-                            <featureCard :title="feature.title" :description="feature.description" />
+                            <featureCard class="demo" :title="feature.title" :description="feature.description" />
                         </div>
                     </div>
                 </div>

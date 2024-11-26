@@ -27,10 +27,10 @@
             </p>
 
             <div class="inline-flex w-full mt-6 sm:w-auto">
-                <a href="#"
+                <NuxtLink to="/publication"
                     class="inline-flex items-center justify-center w-full px-6 py-2 text-white duration-300 bg-cyan-600 rounded-lg hover:bg-red-600 focus:ring-opacity-80">
                     See our publications
-                </a>
+                </NuxtLink>
             </div>
         </div>
     </section>

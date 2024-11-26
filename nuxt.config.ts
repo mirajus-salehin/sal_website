@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxt/ui', 'nuxt-particles'],
+  modules: ['@nuxt/ui', 'nuxt-particles', '@vueuse/motion/nuxt'],
+
   devtools: {
     enabled: true,
 
@@ -8,11 +9,15 @@ export default defineNuxtConfig({
       enabled: true
     }
   },
+
   components: true,
+
   colorMode: {
     preference: 'dark'
   },
+
   css: ['~/assets/main.css'],
+
   app: {
     pageTransition: { name: 'page', mode: 'out-in' },
     head: {
@@ -24,6 +29,30 @@ export default defineNuxtConfig({
 
     },
   },
+
   plugins: [
-  ]
+  ],
+
+  runtimeConfig: {
+    public: {
+      motion: {
+        directives: {
+          'pop-bottom': {
+            initial: {
+              scale: 0,
+              opacity: 0,
+              y: 100,
+            },
+            visible: {
+              scale: 1,
+              opacity: 1,
+              y: 0,
+            }
+          }
+        }
+      }
+    }
+  },
+
+  compatibilityDate: '2024-11-18'
 })

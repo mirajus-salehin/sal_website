@@ -22,11 +22,11 @@
                     <p class="font-semibold text-gray-800 dark:text-white">Useful links</p>
 
                     <div class="flex flex-col items-start mt-5 space-y-2">
-                        <a href="#"
+                        <a href="https://bau.edu.bd" target="_blank"
                             class="footer-links">Bangladesh Agricultural University</a>
-                        <a href="#"
+                        <a href="https://aet.bau.edu.bd" target="_blank"
                             class="footer-links">Faculty of Agricultural Engineering & Technology</a>
-                        <a href="#"
+                        <a href="https://fpm.bau.edu.bd" target="_blank"
                             class="footer-links">Department of Farm Power and Machinery</a>
                     </div>
                 </div>
